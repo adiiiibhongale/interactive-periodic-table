@@ -29,7 +29,7 @@ Built With
 
 Live Demo
 
-🔗 [View Website](https://adiiiibhongale.github.io/interactive-periodic-table/)**
+🔗 [View Website](https://github.com/adiiiibhongale/interactive-periodic-table/)**
 
 ---
 
